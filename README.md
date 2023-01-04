@@ -1,1 +1,1 @@
-# SwaggerAutgenMock
+# Swagger Mock generator
